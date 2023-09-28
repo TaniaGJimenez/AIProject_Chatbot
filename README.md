@@ -47,7 +47,7 @@ Para garantizar el éxito del proyecto, se tomaron los siguientes criterios de a
   - Conversational Agent
 
 ## 6. Implementación paso a paso
-A continuación, se detallan los pasos para llevar a cabo la implementación del proyecto:
+A continuación, se describen los pasos que se siguieron para implementar este proyecto:
 
 ### Paso 1: Instalar Flowise
 Se instaló Flowise globalmente 
