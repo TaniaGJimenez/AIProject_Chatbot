@@ -22,7 +22,7 @@ La capacidad de dirigir eficazmente la IA y comprender las herramientas disponib
 ## 3. Resumen del proyecto
 Se creo un chatflow utilizando las herramientas disponibles en Flowise para habilitar esta capacidad en un chatbot.
 
-![Flowise](img\chatWithYourFiles_Img_Flow.png)
+![Flowise](img/chatWithYourFiles_Img_Flow.png)
 
 ## 4. Objetivos de aprendizaje
 Este proyecto esta enfocado a alcanzar los siguientes objetivos de aprendizaje:
@@ -54,20 +54,20 @@ Se instaló Flowise globalmente
 ### Paso 2: Configurar el chatflow
 - Se configuró el chatflow de acuerdo con las herramientas y componentes específicos de Flowise. configurando la conexión con la API de OpenAI utilizando el modelo `gpt-3.5-turbo`.
 
-![Flow](img\chatWithYourFiles_Img_Flow.png)
+![Flow](img/chatWithYourFiles_Img_Flow.png)
 ### Paso 3: Implementar la lógica del chatbot
 - Se implementó la lógica del chatbot para procesar y analizar el contenido de los archivos cargados.
 
-![txtText](img\chatWithYourFiles_Img_txtText.png)
+![txtText](img/chatWithYourFiles_Img_txtText.png)
 ### Paso 4: Validar la funcionalidad
 - Se validó que el chatbot puede responder preguntas utilizando la información de los archivos cargados y que cumple con los criterios de aceptación establecidos.
 
-![Chat](img\chatWithYourFiles_Img_Chat.png)
+![Chat](img/chatWithYourFiles_Img_Chat.png)
 ![Answer](img/chatWithYourFiles_Img_Answer.png)
 ### Paso 5: Ejecutar test de forma local y GitHub Actions
 - Se verificó que todas las pruebas se ejecuten con éxito y se configuró el flujo de trabajo en GitHub Actions para ejecutar las pruebas de tu proyecto de forma automática.
 
-![test](img\chatWithYourFiles_Img_Tests.png)
+![test](img/chatWithYourFiles_Img_Tests.png)
 
 
 ## 7. Recursos
